@@ -1,4 +1,4 @@
-const baseURL = "http://localhost:5001/api/notes";
+const baseURL = "http://localhost:5001/";
 
 export const FireAPI = async (
   endpoint,
