@@ -1,4 +1,4 @@
-const baseURL = "http://localhost:5001/";
+const baseURL = "https://thinkboard-backend-beryl.vercel.app";
 
 export const FireAPI = async (
   endpoint,
